@@ -94,6 +94,10 @@ body {
       background-color: black;
       height: 200px;
   }
+  .content2:hover{
+    background-color: yellow;
+    color: pink;
+    }
   .sidebar2 {
     background-color: #0BFFF2;
     color: #444;
