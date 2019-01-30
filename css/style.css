@@ -39,6 +39,10 @@ body {
        "content"
        "sidebar2"
        "content2"
+       "sidebar1"
+       "sidebar22"
+       "sidebar3"
+       "sidebar4"
        "footer"
     }
   
@@ -51,6 +55,8 @@ body {
           "sidebar  content"
           "sidebar2 sidebar2"
           "content2 content2"
+          "sidebar1 sidebar22"
+          "sidebar3 sidebar4"
           "footer   footer"
           ;
       }
@@ -64,6 +70,8 @@ body {
         "header  header  header"
               "sidebar content sidebar2"
               "content2 content2 content2"
+              "sidebar1 sidebar22 sidebar3"
+              "sidebar4 sidebar4 sidebar4" 
               "footer  footer  footer"
               ;
               max-width: 600px;
