@@ -90,11 +90,16 @@ body {
   .footer {
     background-color: #FF6F25;
   }
+  .footer:hover {
+    transition: 1s;
+    background-color: black;
+  }
   .content2{
       background-color: black;
       height: 200px;
   }
   .content2:hover{
+    transition: 1s;
     background-color: yellow;
     color: pink;
     }
