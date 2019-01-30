@@ -84,8 +84,10 @@ body {
   }
   .content2{
       background-color: black;
+      height: 200px;
   }
   .sidebar2 {
     background-color: #0BFFF2;
     color: #444;
+    height: 200px;
   }
